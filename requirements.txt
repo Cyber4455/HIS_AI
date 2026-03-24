@@ -1,0 +1,14 @@
+streamlit
+fastapi
+uvicorn
+google-generativeai
+bcrypt
+python-jose[cryptography]
+fpdf2
+plotly
+requests
+python-dotenv
+pydantic
+email-validator
+python-multipart
+pandas
